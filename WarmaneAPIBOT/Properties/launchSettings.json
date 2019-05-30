@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WarmaneAPIBOT": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Luka Trempetic\\Desktop\\iw4x_bot",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
